@@ -2,6 +2,6 @@
 In this hands-on lab, I learnt how to use Apache Spark on Cloud Dataproc to distribute a computationally intensive image processing task onto a cluster of machines. This lab is part of a series of labs on processing scientific data.
 
 ## Steps
-Create a managed Cloud Dataproc cluster with Apache Spark pre-installed.
-Build and run jobs that use external packages that aren't already installed on the cluster.
-Shut down the cluster.
+* Create a managed Cloud Dataproc cluster with Apache Spark pre-installed.
+* Build and run jobs that use external packages that aren't already installed on the cluster.
+* Shut down the cluster.
